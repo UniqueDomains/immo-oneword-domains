@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .IMMO one-word domains still available to buy.
 
-This dataset contains 4,619 .IMMO one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,950 .IMMO one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.IMMO one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=immo-oneword-domains&utm_content=description.top) (4,619) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,49 +13,49 @@ If you want to search & filters the complete database of [.IMMO one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/immo-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/immo-oneword-domains/blob/main/immo.csv"><b>⬇️ CSV (4.62K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/immo-oneword-domains/blob/main/immo.json"><b>⬇️ JSON (4.62K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/immo-oneword-domains/blob/main/immo.csv"><b>⬇️ CSV (4.95K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/immo-oneword-domains/blob/main/immo.json"><b>⬇️ JSON (4.95K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=immo-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.62K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain          | Status    | Attract. | Demand | Length | Registrar    | Created          | Expires          |
-| --------------- | --------- | -------- | ------ | ------ | ------------ | ---------------- | ---------------- |
-| aaron.immo      | available | 88       | 32%    | 5      |              |                  |                  |
-| abactinal.immo  | available | 50       | 1%     | 9      |              |                  |                  |
-| abaft.immo      | available | 43       | 2%     | 5      |              |                  |                  |
-| abandoned.immo  | available | 58       | 7%     | 9      |              |                  |                  |
-| abashed.immo    | available | 60       | 2%     | 7      |              |                  |                  |
-| abasic.immo     | available | 54       | 2%     | 6      |              |                  |                  |
-| abatable.immo   | available | 54       | 1%     | 8      |              |                  |                  |
-| abatic.immo     | available | 54       | 2%     | 6      |              |                  |                  |
-| abaxial.immo    | available | 54       | 2%     | 7      |              |                  |                  |
-| abbatial.immo   | available | 50       | 1%     | 8      |              |                  |                  |
-| abc.immo        | resell    | 102      | 41%    | 3      | Sav.com, LLC | 21/10/2024 20:14 | 21/10/2025 20:14 |
-| abdicable.immo  | available | 50       | 1%     | 9      |              |                  |                  |
-| abdominal.immo  | available | 82       | 5%     | 9      |              |                  |                  |
-| abdominous.immo | available | 56       | 1%     | 10     |              |                  |                  |
-| abducens.immo   | available | 54       | 1%     | 8      |              |                  |                  |
-| abducent.immo   | available | 68       | 1%     | 8      |              |                  |                  |
-| abducting.immo  | available | 50       | 1%     | 9      |              |                  |                  |
-| abenaki.immo    | available | 82       | 3%     | 7      |              |                  |                  |
-| aberdonian.immo | available | 68       | 1%     | 10     |              |                  |                  |
-| aberrant.immo   | available | 74       | 7%     | 8      |              |                  |                  |
-| abeyant.immo    | available | 56       | 2%     | 7      |              |                  |                  |
-| abhorrent.immo  | available | 54       | 3%     | 9      |              |                  |                  |
-| abiding.immo    | available | 106      | 5%     | 7      |              |                  |                  |
-| abient.immo     | available | 54       | 1%     | 6      |              |                  |                  |
-| ability.immo    | available | 92       | 18%    | 7      |              |                  |                  |
-| abit.immo       | available | 66       | 16%    | 5      |              |                  |                  |
-| abject.immo     | available | 94       | 8%     | 6      |              |                  |                  |
-| abkhas.immo     | available | 68       | 1%     | 6      |              |                  |                  |
-| abkhasian.immo  | available | 78       | 1%     | 9      |              |                  |                  |
-| abkhaz.immo     | available | 82       | 2%     | 6      |              |                  |                  |
+| Domain          | Status    | Attract. | Demand | Length | Registrar   | Created          | Expires          |
+| --------------- | --------- | -------- | ------ | ------ | ----------- | ---------------- | ---------------- |
+| aaa.immo        | resell    | 70       | 35%    | 3      | Dynadot Inc | 14/10/2025 17:00 | 14/10/2026 17:00 |
+| aaron.immo      | available | 88       | 28%    | 5      |             |                  |                  |
+| abactinal.immo  | available | 50       | 1%     | 9      |             |                  |                  |
+| abaft.immo      | available | 43       | 2%     | 5      |             |                  |                  |
+| abandoned.immo  | available | 58       | 7%     | 9      |             |                  |                  |
+| abashed.immo    | available | 60       | 2%     | 7      |             |                  |                  |
+| abasic.immo     | available | 54       | 2%     | 6      |             |                  |                  |
+| abatable.immo   | available | 54       | 1%     | 8      |             |                  |                  |
+| abatic.immo     | available | 54       | 2%     | 6      |             |                  |                  |
+| abaxial.immo    | available | 54       | 2%     | 7      |             |                  |                  |
+| abbatial.immo   | available | 50       | 1%     | 8      |             |                  |                  |
+| abdicable.immo  | available | 50       | 1%     | 9      |             |                  |                  |
+| abdominal.immo  | available | 82       | 5%     | 9      |             |                  |                  |
+| abdominous.immo | available | 56       | 1%     | 10     |             |                  |                  |
+| abducens.immo   | available | 54       | 1%     | 8      |             |                  |                  |
+| abducent.immo   | available | 68       | 1%     | 8      |             |                  |                  |
+| abducting.immo  | available | 50       | 1%     | 9      |             |                  |                  |
+| abenaki.immo    | available | 82       | 3%     | 7      |             |                  |                  |
+| aberdonian.immo | available | 68       | 1%     | 10     |             |                  |                  |
+| aberrant.immo   | available | 74       | 7%     | 8      |             |                  |                  |
+| abeyant.immo    | available | 56       | 2%     | 7      |             |                  |                  |
+| abhorrent.immo  | available | 54       | 3%     | 9      |             |                  |                  |
+| abide.immo      | available | 94       | 15%    | 5      |             |                  |                  |
+| abiding.immo    | available | 106      | 5%     | 7      |             |                  |                  |
+| abient.immo     | available | 54       | 1%     | 6      |             |                  |                  |
+| ability.immo    | available | 92       | 16%    | 7      |             |                  |                  |
+| abit.immo       | available | 66       | 12%    | 5      |             |                  |                  |
+| abject.immo     | available | 94       | 8%     | 6      |             |                  |                  |
+| abkhas.immo     | available | 68       | 1%     | 6      |             |                  |                  |
+| abkhasian.immo  | available | 78       | 1%     | 9      |             |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/immo-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/immo-oneword-domains/blob/main/immo.csv"><b>⬇️ CSV (4.62K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/immo-oneword-domains/blob/main/immo.json"><b>⬇️ JSON (4.62K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/immo-oneword-domains/blob/main/immo.csv"><b>⬇️ CSV (4.95K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/immo-oneword-domains/blob/main/immo.json"><b>⬇️ JSON (4.95K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=immo-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.62K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.IMMO one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
