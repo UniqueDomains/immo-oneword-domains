@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .immo one-word domains from Unique
 
 **Public extract:** 9,273 rows · **Live catalog:** 9,273 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/immo`  
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | creator.immo   | available | $14.99    | $45.99        | 70             | 45     | 7      | name.com                                                  |
 | the.immo       | resell    | —         | —             | 98             | 58     | 3      | Spaceship, Inc.                                           |
 | search.immo    | premium   | $82.50    | —             | 70             | 57     | 6      | name.com                                                  |
-| forge.immo     | available | $14.99    | $45.99        | 62             | 45     | 5      | name.com                                                  |
+| mix.immo       | available | $14.99    | $45.99        | 66             | 45     | 3      | name.com                                                  |
 | bot.immo       | resell    | —         | —             | 98             | 56     | 3      | Sav.com, LLC                                              |
 | business.immo  | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                                 |
-| mix.immo       | available | $14.99    | $45.99        | 66             | 44     | 3      | name.com                                                  |
+| forge.immo     | available | $14.99    | $45.99        | 62             | 45     | 5      | name.com                                                  |
 | pay.immo       | resell    | —         | —             | 84             | 56     | 3      | Sav.com, LLC                                              |
 | life.immo      | premium   | $260      | $260          | 84             | 50     | 4      | namecheap                                                 |
 | health.immo    | available | $43.98    | —             | 92             | 43     | 6      | namecheap                                                 |
 | email.immo     | resell    | —         | —             | 106            | 54     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 | security.immo  | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                                 |
 | strategy.immo  | available | $43.98    | —             | 74             | 43     | 8      | namecheap                                                 |
-| alpha.immo     | resell    | —         | —             | 90             | 54     | 5      | GoDaddy.com, LLC                                          |
+| abc.immo       | resell    | —         | —             | 102            | 53     | 3      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
