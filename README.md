@@ -76,7 +76,7 @@ print(df.head())
 | mix.immo       | available | $14.99    | $45.99        | 66             | 45     | 3      | name.com                                                  |
 | bot.immo       | resell    | —         | —             | 98             | 56     | 3      | Sav.com, LLC                                              |
 | business.immo  | premium   | $260      | $260          | 100            | 53     | 8      | namecheap                                                 |
-| forge.immo     | available | $14.99    | $45.99        | 62             | 45     | 5      | name.com                                                  |
+| forge.immo     | available | $14.99    | $45.99        | 62             | 44     | 5      | name.com                                                  |
 | pay.immo       | resell    | —         | —             | 84             | 56     | 3      | Sav.com, LLC                                              |
 | life.immo      | premium   | $260      | $260          | 84             | 50     | 4      | namecheap                                                 |
 | health.immo    | available | $43.98    | —             | 92             | 43     | 6      | namecheap                                                 |
