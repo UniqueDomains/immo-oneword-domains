@@ -1,10 +1,10 @@
-# Available .IMMO One-Word Domains (12,211)
+# Available .IMMO One-Word Domains (12,212)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C211%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C212%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .immo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,211 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,212 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,211 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,212 domains · **Median ask:** $19.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/immo`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Trex.immo     | available | $43.98    | —             | 80             | 24     | 5      | namecheap |
+| finals.immo   | available | $14.99    | —             | 80             | 7      | 6      | name.com  |
+| ladies.immo   | available | $14.99    | —             | 80             | 17     | 6      | name.com  |
+| barup.immo    | available | $14.99    | —             | 82             | 2      | 6      | name.com  |
+| geton.immo    | available | $14.99    | —             | 82             | 10     | 6      | name.com  |
+| getup.immo    | available | $14.99    | —             | 82             | 14     | 6      | name.com  |
+| matcha.immo   | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
+| dogsit.immo   | available | $14.99    | —             | 96             | 2      | 6      | name.com  |
+| gearup.immo   | available | $14.99    | —             | 80             | 16     | 7      | name.com  |
+| toneup.immo   | available | $14.99    | —             | 80             | 5      | 7      | name.com  |
+| pierogi.immo  | available | $14.99    | —             | 82             | 7      | 7      | name.com  |
+| dogsick.immo  | available | $14.99    | —             | 90             | 1      | 7      | name.com  |
 | Books.immo    | available | $43.98    | —             | 52             | 49     | 5      | namecheap |
 | agents.immo   | premium   | $250      | —             | 56             | 50     | 6      | name.com  |
-| matcha.immo   | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
 | events.immo   | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
 | lets.immo     | available | $14.99    | —             | 77             | 39     | 4      | name.com  |
 | SanDiego.immo | premium   | $242      | $242          | 74             | 29     | 9      | namesilo  |
 | aliens.immo   | available | $14.99    | —             | 56             | 35     | 6      | name.com  |
 | photos.immo   | premium   | $123.75   | —             | 54             | 28     | 6      | name.com  |
 | spectra.immo  | available | $14.99    | —             | 62             | 34     | 7      | name.com  |
-| systems.immo  | premium   | $123.75   | —             | 46             | 27     | 7      | name.com  |
-| payments.immo | available | $14.99    | —             | 58             | 33     | 8      | name.com  |
-| rewards.immo  | available | $14.99    | —             | 62             | 30     | 7      | name.com  |
-| heroes.immo   | available | $14.99    | —             | 68             | 29     | 6      | name.com  |
-| cams.immo     | available | $14.99    | —             | 52             | 29     | 4      | name.com  |
-| forms.immo    | available | $14.99    | —             | 54             | 28     | 5      | name.com  |
-| backyard.immo | available | $14.99    | —             | 80             | 27     | 9      | name.com  |
-| gods.immo     | available | $14.99    | —             | 72             | 27     | 4      | name.com  |
-| bees.immo     | available | $14.99    | —             | 54             | 27     | 4      | name.com  |
-| has.immo      | available | $14.99    | —             | 60             | 26     | 3      | name.com  |
-| doctors.immo  | available | $14.99    | —             | 56             | 26     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,211 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,212 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of .immo domains, which makes extension fit the first filter. The strongest names read naturally with real-estate intent, stay easy to say, and look credible when paired with property, agency, rental, or regional positioning. Examples such as Acup.immo, Trex.immo, girls.immo, WiFi.immo, and jewels.immo show how mixed the word quality can be: some are flexible and memorable, while others feel disconnected from the extension. With a median ask of 19.06, these domains can be inexpensive to secure, but low price alone does not make a name strong. Focus on clarity, sector relevance, and whether the word still makes sense to a buyer or end user in .immo.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that make obvious sense with .immo
+- Low ask helps, but weak extension fit still limits upside
+- Favor short, clean words with clear spoken recall
+- Check trademark signals before valuing brandability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
