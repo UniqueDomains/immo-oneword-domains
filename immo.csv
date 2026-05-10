@@ -308,6 +308,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 181a68f0-3368-4b95-881a-0be0213ac4c5,visioned.immo,available,14.99,,71,4,8,name.com,,
 1840cf95-5b1e-46c1-bc1a-e7d3edf5aca3,letitalone.immo,available,14.99,,80,1,12,name.com,,
 1849eb29-d8f0-412e-81ef-e53f35b28b78,onthemove.immo,available,14.99,,72,10,11,name.com,,
+18b09140-6347-4c5d-bc5b-8346a568b052,standout.immo,premium,,,82,17,9,,,
 18b48cb2-22a7-49ee-bce9-cf02c4d14100,demonstrates.immo,available,14.99,,56,2,12,name.com,,
 18b9d870-0860-453a-9541-0e26905b4d14,keeptrackof.immo,available,14.99,,48,1,13,name.com,,
 18c07238-39d2-4cce-86fc-25dff344a310,actresses.immo,available,14.99,,56,5,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 52fd854b-20ef-4326-8d17-ffb5f411e02a,herbbutter.immo,available,14.99,,80,1,11,name.com,,
 5313285c-113e-4f08-9e4c-6617d5957dec,flips.immo,available,14.99,,52,12,5,name.com,,
 5317b2f3-6c2b-4944-a254-f69c15fbcba5,rewards.immo,available,14.99,,62,30,7,name.com,,
-532b0b64-0b53-47d2-ac3d-c0a115ac102d,stonewalls.immo,available,14.99,,51,2,10,name.com,,
