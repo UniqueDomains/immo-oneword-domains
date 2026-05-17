@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .immo one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,218 domains · **Median ask:** $19.06 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/immo`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | ladies.immo   | available | $14.99    | —             | 80             | 17     | 6      | name.com  |
 | barup.immo    | available | $14.99    | —             | 82             | 2      | 6      | name.com  |
 | geton.immo    | available | $14.99    | —             | 82             | 10     | 6      | name.com  |
-| getup.immo    | available | $14.99    | —             | 82             | 14     | 6      | name.com  |
+| getup.immo    | available | $14.99    | —             | 82             | 15     | 6      | name.com  |
 | matcha.immo   | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
 | dogsit.immo   | available | $14.99    | —             | 96             | 2      | 6      | name.com  |
 | gearup.immo   | available | $14.99    | —             | 80             | 16     | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
