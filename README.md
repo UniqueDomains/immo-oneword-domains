@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .immo one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,218 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,218 domains · **Median ask:** $19.06 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,218 domains · **Median ask:** $19.93 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/immo`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/immo`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .IMMO one-word domain 
 
 ### Files
 
-- `immo.csv` — public CSV extract (1,000 rows)
-- `immo.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `immo.csv`, public CSV extract (1,000 rows)
+- `immo.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Trex.immo     | available | $43.98    | —             | 80             | 24     | 5      | namecheap |
-| finals.immo   | available | $14.99    | —             | 80             | 7      | 6      | name.com  |
-| ladies.immo   | available | $14.99    | —             | 80             | 17     | 6      | name.com  |
-| barup.immo    | available | $14.99    | —             | 82             | 2      | 6      | name.com  |
-| geton.immo    | available | $14.99    | —             | 82             | 10     | 6      | name.com  |
-| getup.immo    | available | $14.99    | —             | 82             | 15     | 6      | name.com  |
-| matcha.immo   | available | $14.99    | —             | 86             | 39     | 6      | name.com  |
-| dogsit.immo   | available | $14.99    | —             | 96             | 2      | 6      | name.com  |
-| gearup.immo   | available | $14.99    | —             | 80             | 16     | 7      | name.com  |
-| toneup.immo   | available | $14.99    | —             | 80             | 5      | 7      | name.com  |
-| pierogi.immo  | available | $14.99    | —             | 82             | 7      | 7      | name.com  |
-| dogsick.immo  | available | $14.99    | —             | 90             | 1      | 7      | name.com  |
-| Books.immo    | available | $43.98    | —             | 52             | 49     | 5      | namecheap |
-| agents.immo   | premium   | $250      | —             | 56             | 50     | 6      | name.com  |
-| events.immo   | premium   | $123.75   | —             | 68             | 37     | 6      | name.com  |
-| lets.immo     | available | $14.99    | —             | 77             | 39     | 4      | name.com  |
-| SanDiego.immo | premium   | $242      | $242          | 74             | 29     | 9      | namesilo  |
-| aliens.immo   | available | $14.99    | —             | 56             | 35     | 6      | name.com  |
-| photos.immo   | premium   | $123.75   | —             | 54             | 28     | 6      | name.com  |
-| spectra.immo  | available | $14.99    | —             | 62             | 34     | 7      | name.com  |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| age.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| game.immo    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 42 |
+| kid.immo     | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| ale.immo     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| viewer.immo  | resell    | —         | —             | medium         | low    | 6      | IONOS SE          |
+| mon.immo     | premium   | $250      | —             | high           | low    | 3      | name.com          |
+| bee.immo     | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| builder.immo | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC      |
+| NYC.immo     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| boo.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| harmony.immo | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 29 |
+| pad.immo     | premium   | $242      | $242          | medium         | low    | 3      | namesilo          |
+| bro.immo     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| fund.immo    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo          |
+| con.immo     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
+| spot.immo    | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo          |
+| cry.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| star.immo    | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com          |
+| don.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| work.immo    | premium   | $242      | $242          | high           | medium | 4      | namesilo          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .immo domains, which makes extension fit the first filter. The strongest names read naturally with real-estate intent, stay easy to say, and look credible when paired with property, agency, rental, or regional positioning. Examples such as Acup.immo, Trex.immo, girls.immo, WiFi.immo, and jewels.immo show how mixed the word quality can be: some are flexible and memorable, while others feel disconnected from the extension. With a median ask of 19.06, these domains can be inexpensive to secure, but low price alone does not make a name strong. Focus on clarity, sector relevance, and whether the word still makes sense to a buyer or end user in .immo.
+This list gathers one-word and short-phrase .immo domain names, a TLD often used for real estate, property, and home-services branding. The median asking price sits near $20, making most entries accessible for quick acquisition. Names range from literal phrases like getmarried.immo and dogsit.immo to abstract, brandable picks like superhero.immo and midmorning.immo — giving investors a low-cost entry point and founders a fast shortlist of ownable, memorable names.
 
-- Prioritize words that make obvious sense with .immo
-- Low ask helps, but weak extension fit still limits upside
-- Favor short, clean words with clear spoken recall
-- Check trademark signals before valuing brandability
+- 12,218 available one-word .immo domains, updated daily
+- Median asking price near $20 across this selection
+- Real estate, lifestyle, and service-brand ready names
+- Includes phrases like getmarried.immo and superhero.immo
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
