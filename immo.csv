@@ -197,7 +197,7 @@ aa2556a1-6b5a-4248-b534-6509df668e42,termination.immo,available,14.99,,low,low,1
 752e80aa-9ffa-4ee8-9dee-6c3cadad2500,leaveout.immo,available,14.99,,medium,low,9,name.com,,
 91956b84-2b58-45f1-88cc-9a85170d3074,boot.immo,available,14.99,,high,low,4,name.com,,
 085c6c80-806c-4ec5-b382-ed81909c7042,everyyear.immo,available,14.99,,medium,low,10,name.com,,
-77850843-a4b7-4eee-96de-8852c8758b3e,related.immo,available,14.99,,high,low,7,name.com,,
+77850843-a4b7-4eee-96de-8852c8758b3e,related.immo,available,14.99,45.99,medium,low,7,name.com,,
 04f8effa-5eae-4591-b4aa-626c2b3f6245,game.immo,resell,,,high,medium,4,"Sav.com, LLC - 42",12/06/2025 15:15,12/06/2026 15:15
 86894418-0c52-4cdb-87ac-6464633ffd49,reporting.immo,available,14.99,,medium,low,9,name.com,,
 fdde3e92-1f8a-44f3-99d8-ff0ad38bed98,feels.immo,available,14.99,,high,low,5,name.com,,
