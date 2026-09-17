@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .immo one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,885 domains · **Median ask:** $21.53 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/immo`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| correct.immo | available | $14.99    | $45.99        | high           | low    | 7      | name.com          |
 | age.immo     | available | $14.99    | $45.99        | medium         | low    | 3      | name.com          |
 | buy.immo     | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc       |
 | kid.immo     | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
@@ -83,7 +84,6 @@ print(df.head())
 | spot.immo    | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo          |
 | cry.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 | star.immo    | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com          |
-| don.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
