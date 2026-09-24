@@ -16,7 +16,7 @@ efc54a29-61f4-41b8-82bc-fe9662450fde,poisoning.immo,available,14.99,,medium,low,
 9de217a7-f33a-4b90-b50d-010626d4fa1a,driveup.immo,available,14.99,,high,low,8,name.com,,,
 78afaf35-8e81-457b-861f-8b286de26d3a,barbarous.immo,available,14.99,45.99,low,low,9,name.com,,,08/08/2026 15:40
 c4547e66-d7f8-4dfb-bd56-bada11e17a9d,publicised.immo,available,14.99,,medium,low,10,name.com,,,
-277cf38c-c383-43f2-b660-c58c5efd033a,favorite.immo,available,14.99,45.99,medium,low,8,name.com,,,
+277cf38c-c383-43f2-b660-c58c5efd033a,favorite.immo,available,34.99,34.99,low,low,8,namesilo,,,24/09/2026 04:33
 4c8b57d8-72de-4203-ae97-01634eaec472,illuminated.immo,available,14.99,,high,low,11,name.com,,,
 4519e475-9ca7-4b0f-971b-1dfb92b61bb4,prodigy.immo,available,14.99,,high,low,7,name.com,,,
 06ba8d25-01d7-413a-a7f5-ba08667aef1e,situation.immo,available,14.99,,high,low,9,name.com,,,
@@ -31,7 +31,7 @@ dd33d28f-cb58-400b-9808-82d5fd2ab820,diamonds.immo,available,14.99,,medium,low,8
 440c7dc1-b7a8-4c55-a975-24f1203f618d,uncontrollable.immo,available,14.99,,medium,low,14,name.com,,,
 8dfba90f-5a2f-4fec-9188-5e3ecc643846,shortly.immo,available,14.99,,medium,low,7,name.com,,,
 d051432e-758a-468b-8ac8-8f5aebac4966,money.immo,premium,123.75,,high,medium,5,name.com,,,
-94072ac1-307b-4ff4-9595-41cde9ab9fef,broken.immo,available,14.99,,medium,low,6,name.com,,,
+94072ac1-307b-4ff4-9595-41cde9ab9fef,broken.immo,available,34.99,34.99,low,low,6,namesilo,,,23/09/2026 09:56
 a95e1d1d-5c1d-49ac-9230-1a6a0061441a,enlivening.immo,available,14.99,45.99,low,low,10,name.com,,,
 1a650a7d-9434-41a8-9431-f10c0f5583eb,longisland.immo,available,14.99,,medium,low,11,name.com,,,
 90cb5e2b-1e06-4a6c-9cf0-b347227fdbd4,bringing.immo,available,14.99,,medium,low,8,name.com,,,
@@ -59,7 +59,7 @@ ab0e8720-6f4e-467e-8751-b6f8e75055cf,goout.immo,available,14.99,,high,low,6,name
 d7db6cae-8c9f-4102-b796-5dc14ab22ae3,bath.immo,available,14.99,,high,low,4,name.com,,,
 1761314d-ee68-4126-a6b6-b1ff49b1e927,frozen.immo,available,14.99,,high,low,6,name.com,,,
 9ee84953-098f-4a7b-82f2-57caac815348,summit.immo,available,14.99,,medium,medium,6,name.com,,,
-0ed363e6-ec41-4eb2-b5e8-0f1d96c29dac,communal.immo,available,14.99,,medium,low,8,name.com,,,
+0ed363e6-ec41-4eb2-b5e8-0f1d96c29dac,communal.immo,available,36.98,43.98,medium,low,8,namecheap,,,23/09/2026 16:10
 5059c563-42f2-4aad-844c-cde251d20dcc,appointive.immo,available,14.99,45.99,low,low,10,name.com,,,06/08/2026 07:16
 b7a9139e-a792-45f1-9cb2-349e5e7c76bf,howarethings.immo,available,14.99,,medium,low,14,name.com,,,
 9bf367e2-ba7d-48df-8f75-c6c04c3309f3,archaistic.immo,available,14.99,45.99,low,low,10,name.com,,,06/08/2026 15:21
@@ -76,7 +76,7 @@ f0796bb5-9a38-48b5-9408-19319fb8672f,pratabout.immo,available,14.99,,low,low,10,
 74629de6-c7f4-4a82-879d-e1cd82e371d0,pitted.immo,available,14.99,45.99,low,low,6,name.com,,,
 7f296614-8279-4d38-b6f7-0d3ee495930f,those.immo,available,14.99,,medium,low,5,name.com,,,
 6578aa88-2721-446d-8ace-918f4fd1c2ff,failedstate.immo,available,14.99,,medium,low,12,name.com,,,
-13a39618-95af-4412-a553-0160a215fc08,organise.immo,available,14.99,45.99,high,low,8,name.com,,,
+13a39618-95af-4412-a553-0160a215fc08,organise.immo,available,34.99,34.99,medium,low,8,namesilo,,,23/09/2026 23:21
 af2fa178-92be-4d7f-af25-2b9354aefa82,giant.immo,available,14.99,45.99,high,low,5,name.com,,,
 dd2766f7-0ca9-4a01-b563-59c56324b56e,transient.immo,available,14.99,,high,low,9,name.com,,,
 0a74ec6c-62dc-4669-9657-413bf1699c03,latest.immo,available,14.99,45.99,medium,low,6,name.com,,,
@@ -245,7 +245,7 @@ d4281142-d3fe-4bb7-a0d1-273bc622df8c,autistic.immo,available,14.99,45.99,low,low
 b34d86fd-a41d-482e-a6eb-55a38b1c2a4f,xrated.immo,available,14.99,,low,low,7,name.com,,,
 b54905e0-1f73-441e-a0bd-7f757a45fad0,convinced.immo,available,14.99,,medium,low,9,name.com,,,
 ec59c8ce-9aa7-43d8-bcbf-3d2acb60f598,upward.immo,available,14.99,,medium,low,6,name.com,,,
-3c35bed5-ae3b-4333-8cce-2d5d1838d51a,covert.immo,available,14.99,45.99,medium,low,6,name.com,,,
+3c35bed5-ae3b-4333-8cce-2d5d1838d51a,covert.immo,available,34.99,34.99,low,low,6,namesilo,,,24/09/2026 00:53
 3fb40908-e4a6-4d22-83ed-9bf97b2ef6e2,wounded.immo,available,14.99,,medium,low,7,name.com,,,
 c7754d76-950f-4530-9b4c-7154d6cda30e,lookupon.immo,available,14.99,,high,low,9,name.com,,,
 6f7d05f6-6ced-4b29-85b9-af88740f021d,apnoeic.immo,available,14.99,45.99,low,low,7,name.com,,,06/08/2026 00:46
@@ -273,7 +273,7 @@ a54b6108-35af-4afc-8395-6f29f868bcb8,rise.immo,available,34.99,34.99,low,low,4,n
 1bbb188f-5038-42ea-9978-81af3b179fdd,adrenergic.immo,available,14.99,45.99,low,low,10,name.com,,,
 b43dec4e-0f16-48df-a826-a5afe80cab0f,assigned.immo,available,14.99,45.99,low,low,8,name.com,,,07/08/2026 06:35
 340f61e5-6e7f-40ea-9282-f7eca6d37c28,autotelic.immo,available,14.99,45.99,low,low,9,name.com,,,07/08/2026 21:08
-804491b9-2d29-47c1-bff9-f0081aed7919,green.immo,premium,118.8,118.8,medium,low,5,namesilo,,,19/09/2026 05:52
+804491b9-2d29-47c1-bff9-f0081aed7919,green.immo,premium,128.7,128.7,medium,low,5,namecheap,,,23/09/2026 05:26
 64d5634f-0cf0-4efd-b808-ff1eae007074,seriousness.immo,available,14.99,,low,low,11,name.com,,,
 9ddc274c-1e00-481e-a8dd-8f8806fc6d3b,baldpated.immo,available,14.99,45.99,low,low,10,name.com,,,08/08/2026 09:30
 77a077bb-81df-4471-b639-a1886b4f3e9b,month.immo,available,14.99,,high,low,5,name.com,,,
@@ -317,7 +317,7 @@ e43264ce-6730-4485-9b12-3b2cc873d86b,bahai.immo,available,14.99,45.99,low,low,5,
 e4dafbb3-6fda-4690-83d2-9c4f0bbfc43f,moi.immo,available,14.99,,high,low,3,name.com,,,
 d681ce97-cea9-48c6-965c-e78fe8fa65f2,collarbone.immo,available,14.99,,medium,low,11,name.com,,,
 1bab1d1a-62e5-46b1-a8cf-583dcec83074,spheric.immo,available,14.99,45.99,low,low,7,name.com,,,08/08/2026 10:16
-a94ecc7d-95c3-4927-9357-e54cd42fb5ae,controlled.immo,available,14.99,45.99,medium,low,10,name.com,,,
+a94ecc7d-95c3-4927-9357-e54cd42fb5ae,controlled.immo,available,34.99,34.99,low,low,10,namesilo,,,23/09/2026 22:39
 3245a274-84b7-4b28-a78a-e55d7a25d36b,justyet.immo,available,14.99,,medium,low,8,name.com,,,
 38a7c6ee-f6ac-4ba0-af11-f6b03d06f106,roads.immo,available,14.99,,high,low,5,name.com,,,
 45371f80-3a55-4712-aea6-ae80b007d5c6,belated.immo,available,14.99,45.99,low,low,7,name.com,,,09/08/2026 12:37
@@ -334,7 +334,7 @@ f10b1c99-9fe8-4985-a030-0626020217d4,beefy.immo,available,14.99,45.99,low,low,5,
 3f5be6fa-8f55-4a2a-a919-0f3230adeec6,dslr.immo,available,14.99,,high,low,4,name.com,,,
 de2866e1-029c-44d5-9db8-bf5bcd9c5c90,pinkelephant.immo,available,14.99,,medium,low,13,name.com,,,
 e7edef2f-d0b1-4464-ae9b-5011d4487545,rockhard.immo,available,14.99,,low,low,9,name.com,,,
-63c45011-1742-4a5d-a1fd-0c8c4b039bbc,pervert.immo,available,14.99,45.99,high,low,7,name.com,,,
+63c45011-1742-4a5d-a1fd-0c8c4b039bbc,pervert.immo,available,14.99,45.99,low,low,7,name.com,,,23/09/2026 23:54
 82d726b3-baca-48df-935a-4ef87786a579,paperplate.immo,available,14.99,,high,low,11,name.com,,,
 a60d8c83-5010-4960-88ef-ee08d5a5affe,alkahestic.immo,available,14.99,45.99,low,low,10,name.com,,,
 70689691-b220-405c-a970-fcfafb8950c0,decorous.immo,available,14.99,45.99,low,low,8,name.com,,,09/08/2026 06:21
@@ -408,7 +408,7 @@ e5975532-4ea3-4d4e-9e0a-94b63376aec0,chimney.immo,available,14.99,,high,low,7,na
 3fe82e84-87af-4ed5-9e29-e6a5fa1cc1a6,beetle.immo,available,14.99,45.99,low,low,6,name.com,,,09/08/2026 08:17
 a2399e7b-ab5b-409c-ba5f-64dd805ac2cd,series.immo,available,36.98,43.98,medium,low,6,namecheap,,,19/09/2026 17:55
 49ed9286-074b-4193-bb30-cd1d43669d03,militant.immo,available,14.99,45.99,low,low,8,name.com,,,
-6ef40227-42ce-4252-86e6-2b1c313080b9,imaginable.immo,available,14.99,45.99,medium,low,10,name.com,,,
+6ef40227-42ce-4252-86e6-2b1c313080b9,imaginable.immo,available,34.99,34.99,medium,low,10,namesilo,,,23/09/2026 18:44
 6e0ee7d4-5db3-44de-898c-d672968284a4,monstrous.immo,available,14.99,45.99,low,low,9,name.com,,,07/08/2026 14:47
 ee78c882-2cec-414c-86fd-0b7368b038fd,abashed.immo,available,14.99,45.99,low,low,7,name.com,,,
 c4728cb2-928e-4c84-8559-06081c8fbb9e,guilt.immo,available,14.99,,high,low,5,name.com,,,
@@ -441,14 +441,14 @@ e1054dc9-b75c-4e21-bf89-be111e92f694,ridiculous.immo,available,14.99,45.99,mediu
 f01f20e8-bb9a-4476-a1f6-b51a5ad6ec47,absolutist.immo,available,14.99,45.99,low,low,10,name.com,,,
 c75aff22-9822-4def-b204-46641cf63b6c,talk.immo,available,14.99,,high,low,4,name.com,,,
 6fe6c7c8-2c25-461f-9a35-7f52365a66c4,describe.immo,available,14.99,,high,low,8,name.com,,,
-b1113b97-21ea-4d70-985e-354622e38d1c,correct.immo,available,14.99,45.99,high,low,7,name.com,,,
+b1113b97-21ea-4d70-985e-354622e38d1c,correct.immo,available,34.99,34.99,medium,low,7,namesilo,,,23/09/2026 23:33
 1b50a181-38eb-4c5e-9f77-56d53a0bf17b,bayesian.immo,available,14.99,45.99,low,low,8,name.com,,,09/08/2026 03:13
 f20383e6-8247-41a6-82b4-e834ec611c30,expedite.immo,available,14.99,,high,low,8,name.com,,,
 dc890785-ca79-4b18-8a21-4df418c77031,mobile.immo,premium,500,,medium,medium,6,name.com,,,
 3422863c-9795-48ef-a8af-b5cb136dbd7f,nitid.immo,available,14.99,45.99,low,low,5,name.com,,,
 ca032461-120c-4329-b023-441e9a1260da,attorneygeneral.immo,available,14.99,,medium,low,16,name.com,,,
 9cc7584c-1e84-4b11-85e0-5b7650ca3153,peeled.immo,available,14.99,45.99,low,low,6,name.com,,,08/08/2026 18:24
-ba5db835-45a3-4058-9ea0-a082db1f3c9d,staff.immo,available,14.99,,high,low,5,name.com,,,
+ba5db835-45a3-4058-9ea0-a082db1f3c9d,staff.immo,available,14.99,45.99,low,low,5,name.com,,,23/09/2026 05:41
 42f3cf43-1121-475b-a4e9-be49e2976bbd,motivation.immo,available,14.99,,high,low,10,name.com,,,
 4efbd79d-0209-4e55-be79-542f9f231d0e,standto.immo,available,14.99,,low,low,8,name.com,,,
 aa551be2-13ba-46ec-ab03-ff885ad43c43,whitearea.immo,available,14.99,,low,low,10,name.com,,,
@@ -502,7 +502,7 @@ cf2abb29-b596-4c0a-ad5b-afa2ad5240ae,maybe.immo,available,14.99,,high,low,5,name
 e862d0b4-8119-41a1-a700-1a9f3caf73f4,newtestament.immo,available,14.99,,low,low,13,name.com,,,
 0c1896c4-309b-411c-9b7e-c234a4640ca2,fleshly.immo,available,14.99,45.99,low,low,7,name.com,,,
 4ffcad85-a32d-448b-bea5-84132060832b,kitchen.immo,premium,118.8,118.8,medium,low,7,namesilo,,,
-99b8d90b-db65-421c-9524-535faed3cc57,main.immo,available,14.99,,high,low,4,name.com,,,
+99b8d90b-db65-421c-9524-535faed3cc57,main.immo,available,34.99,34.99,medium,low,4,namesilo,,,23/09/2026 09:34
 c5ae4671-7cef-4479-963c-3dbbe8b08cd5,theone.immo,available,14.99,,high,low,7,name.com,,,
 39c87528-25bf-4994-992d-f2d2cb291b23,xviii.immo,available,34.99,34.99,low,low,5,namesilo,,,21/09/2026 12:00
 65a9e540-c878-491b-bf21-948959393e75,ammonitic.immo,available,14.99,45.99,low,low,9,name.com,,,
@@ -534,13 +534,13 @@ d7cbbc2a-20d6-4372-8954-1a696896b840,barely.immo,available,14.99,,medium,low,6,n
 ccc662ab-09b9-44a0-aff2-edaab7517ec2,jehovah.immo,available,14.99,45.99,low,low,7,name.com,,,
 180b8a3c-a19e-4873-9c35-c898d65a4376,articular.immo,available,14.99,45.99,low,low,9,name.com,,,06/08/2026 23:26
 e61358e0-5094-41a4-8287-9ebcd8007d04,worsening.immo,available,14.99,,medium,low,9,name.com,,,
-bfcf3e63-e999-4cd9-ab4a-57cd6ad97443,shining.immo,available,14.99,,high,low,7,name.com,,,
+bfcf3e63-e999-4cd9-ab4a-57cd6ad97443,shining.immo,available,34.99,34.99,medium,low,7,namesilo,,,23/09/2026 11:49
 d5d22aab-9c34-4f56-ae25-2070aa363a0b,particular.immo,available,14.99,,high,low,10,name.com,,,
 e3422cbc-8e7e-48e0-954a-5ce620a2261f,upwards.immo,available,14.99,,medium,low,7,name.com,,,
 d1a07aaa-6644-4f50-b03e-172d2dc7f9f7,journeyman.immo,available,14.99,,medium,low,10,name.com,,,
 74082152-dcd1-4970-8cd9-2e11a448dacd,seals.immo,available,14.99,,medium,low,5,name.com,,,
 45440de3-5e2f-4b0b-9fa4-3cd6dce85ad0,phrases.immo,available,14.99,,low,low,7,name.com,,,
-e3718fc8-a2b3-4fcd-9f63-4bd047b1eebb,famous.immo,available,14.99,,high,low,6,name.com,,,
+e3718fc8-a2b3-4fcd-9f63-4bd047b1eebb,famous.immo,available,36.98,43.98,medium,low,6,namecheap,,,23/09/2026 13:15
 1c741d84-e008-48c6-8f89-e24f230c4a4d,reader.immo,available,14.99,,high,low,6,name.com,,,
 ebb02459-01f0-4ab5-ba03-634b91125148,greetings.immo,available,14.99,,high,low,9,name.com,,,
 76661050-216c-4610-b04b-ae695c178eed,suckit.immo,available,14.99,,medium,low,7,name.com,,,
@@ -571,15 +571,15 @@ bbb6db7b-8392-4d1a-8182-4f48996ff351,perform.immo,available,14.99,,high,low,7,na
 afbf4d81-6d8c-449f-a3e7-de438dba8c30,visitor.immo,available,14.99,,high,low,7,name.com,,,
 2799413b-7c8d-456c-b865-55227f01ee0d,toward.immo,available,14.99,,medium,low,6,name.com,,,
 0d476de1-78e4-4ce1-b30e-89b75c209482,ttyl.immo,available,14.99,,low,low,4,name.com,,,
-5072c9c8-58f7-47c1-b70c-1eb320df4f7a,buy.immo,resell,,,medium,low,3,Dynadot Inc,18/04/2025 19:24,18/04/2027 19:24,19/09/2026 08:52
+5072c9c8-58f7-47c1-b70c-1eb320df4f7a,buy.immo,resell,,,medium,low,3,Dynadot Inc,18/04/2025 19:24,18/04/2027 19:24,23/09/2026 06:05
 b81f4710-47ab-4ebe-be0f-7014bb6b422b,christalive.immo,available,14.99,,high,low,12,name.com,,,
 fedb5b5e-ca98-4249-8b77-7eee8a8e00e9,talktime.immo,available,14.99,,medium,low,9,name.com,,,
 f7f741eb-ac07-4b30-88ba-1ffbef0b6930,carryon.immo,available,14.99,,high,low,8,name.com,,,
 e85f29f7-f8ff-4b2b-b2df-367e8265b240,inevitable.immo,available,14.99,,medium,low,10,name.com,,,
 a10d6b3f-2950-4a54-8995-505fbca13dc4,rod.immo,available,14.99,,medium,low,3,name.com,,,
 915592d5-78ac-4fe9-96d4-b3c62acdd263,lxxxviii.immo,available,14.99,45.99,low,low,8,name.com,,,
-0bf56b0a-66c6-4957-9af3-d5411fb35e27,resume.immo,available,14.99,45.99,high,low,6,name.com,,,
-a9ebbf70-f023-4c1e-90b3-6c4a5d96062d,summary.immo,available,14.99,45.99,high,low,7,name.com,,,
+0bf56b0a-66c6-4957-9af3-d5411fb35e27,resume.immo,available,34.99,34.99,medium,low,6,namesilo,,,24/09/2026 04:16
+a9ebbf70-f023-4c1e-90b3-6c4a5d96062d,summary.immo,available,34.99,34.99,low,low,7,namesilo,,,23/09/2026 17:08
 b5fbc783-ab02-4bc1-b2ed-f8515b51b548,nationaldebt.immo,available,14.99,,low,low,13,name.com,,,
 a712022b-e48a-4158-a4ca-59e38fb4bd59,requested.immo,available,14.99,,medium,low,9,name.com,,,
 1550de87-fa68-49d4-96ef-fe68435e4cce,kid.immo,premium,242,242,high,low,3,namesilo,,,
@@ -597,7 +597,7 @@ e64d1b5b-212f-45c7-9438-166d6bdae925,south.immo,premium,242,242,medium,low,5,nam
 622d37f7-e1c3-496a-9be6-5fdd0315f4c1,asexual.immo,available,14.99,45.99,low,low,7,name.com,,,07/08/2026 01:33
 432809cc-e49a-4c7f-af37-35d613da2902,mode.immo,available,14.99,,high,low,4,name.com,,,
 c4c5b316-3d7a-4622-8fb7-1fd5a0900d4e,harmony.immo,resell,,,high,medium,7,"Sav.com, LLC - 29",07/09/2025 15:15,07/09/2026 15:15,
-61c81727-3eb4-4e6a-8982-c9166eaa8a1b,fund.immo,premium,78.54,78.54,medium,low,4,namesilo,,,19/09/2026 13:44
+61c81727-3eb4-4e6a-8982-c9166eaa8a1b,fund.immo,premium,85.8,85.8,medium,low,4,namecheap,,,23/09/2026 16:38
 def21280-a9e3-4221-a68d-10b727443586,sise.immo,available,14.99,45.99,low,low,4,name.com,,,
 6888008d-e0c8-402d-ae35-02b3866382cb,regret.immo,available,14.99,,high,low,6,name.com,,,
 95e65ecd-5cd4-4235-9449-380c9e0a8ca6,dollarsign.immo,available,14.99,,medium,low,11,name.com,,,
@@ -608,7 +608,7 @@ fdada94f-d68f-4181-a4b1-c02df00ad987,motive.immo,available,,,high,low,6,,,,
 36ae7c3f-0ef5-4581-9767-b12868908ae4,westvirginia.immo,available,14.99,,low,low,13,name.com,,,
 f0bb0936-c163-411b-be5e-dd4fe540b8f2,godknows.immo,available,14.99,,medium,low,9,name.com,,,
 522cf3b5-de73-4b72-ae67-22e6964dcce1,whogoesthere.immo,available,14.99,,low,low,14,name.com,,,
-05ab3a26-7ddf-44ef-8683-2e23a6080a80,biology.immo,available,14.99,,high,low,7,name.com,,,
+05ab3a26-7ddf-44ef-8683-2e23a6080a80,biology.immo,available,34.99,34.99,medium,low,7,namesilo,,,24/09/2026 02:45
 be328398-0f58-4854-9ab8-a9364535d6fc,dothelaundry.immo,available,14.99,,medium,low,14,name.com,,,
 4521937c-32ec-4ce4-9480-36862bbe2841,volkswagen.immo,available,14.99,,high,low,10,name.com,,,
 04947725-9491-4035-b8f2-2458d1ab9767,fireengine.immo,available,14.99,,high,low,11,name.com,,,
@@ -655,7 +655,6 @@ a213c158-d2d5-4321-8f2e-de0225a8c0fa,highdefinition.immo,available,14.99,,high,l
 1a04de6a-d561-493e-9f37-b14f744a44c4,bear.immo,available,14.99,,high,low,4,name.com,,,
 d4d9f511-8ae7-4eee-9da6-103e20bd1cc6,remain.immo,available,14.99,,high,low,6,name.com,,,
 c87c6de1-02a0-4026-a6cd-1cb2dcce5c93,untoward.immo,available,14.99,45.99,low,low,8,name.com,,,
-d3913996-ba7a-4cab-a58a-21f0b6911d5e,calm.immo,available,14.99,,high,low,4,name.com,,,
 754d376f-c410-4af2-ace1-ae45a20a03ce,atthewheel.immo,available,14.99,,medium,low,12,name.com,,,
 4a43928e-ac41-4767-a373-8be9231cbec1,retain.immo,available,14.99,,high,low,6,name.com,,,
 089820f0-3a15-41c4-8631-b2b0965b211b,amyloid.immo,available,14.99,45.99,low,low,7,name.com,,,
@@ -691,8 +690,8 @@ a5e06f45-1a3d-43a4-8262-ea951b970a22,harrowing.immo,available,14.99,45.99,low,lo
 bc31455b-c384-4696-9a41-5dd32a2527cc,nyc.immo,premium,118.8,118.8,high,medium,3,namesilo,,,
 cb5b2c14-6fa0-44c1-904b-76a52927f99d,closeoff.immo,available,14.99,,high,low,9,name.com,,,
 145f88ad-bae6-4e74-ac80-06d01cdbdf4c,represent.immo,available,14.99,,high,low,9,name.com,,,
-3e431611-67fc-4ae5-b729-beb3df17d958,shed.immo,available,14.99,,medium,low,4,name.com,,,
-7b758246-1a9c-4fa9-977c-667c47be2476,concerned.immo,available,14.99,45.99,medium,low,9,name.com,,,
+3e431611-67fc-4ae5-b729-beb3df17d958,shed.immo,available,14.99,45.99,low,low,4,name.com,,,23/09/2026 12:18
+7b758246-1a9c-4fa9-977c-667c47be2476,concerned.immo,available,36.98,43.98,low,low,9,namecheap,,,23/09/2026 18:58
 0904e321-2c3d-4443-a874-279ea2f8c010,dismaying.immo,available,14.99,45.99,low,low,9,name.com,,,06/08/2026 04:36
 37955767-f576-4401-bc58-bf9a0a29f91b,rearward.immo,available,14.99,45.99,low,low,8,name.com,,,08/08/2026 06:51
 01ff9858-801c-43a1-b167-7252022764c9,forty.immo,available,14.99,45.99,low,low,5,name.com,,,
@@ -715,7 +714,7 @@ abe27fae-7b79-4fc6-9b9e-e6d33cabab39,kit.immo,available,14.99,,medium,low,3,name
 f7026b48-2ed5-4c4e-a1b3-97dcf5e52599,bloodclot.immo,available,14.99,,medium,low,10,name.com,,,
 400e0147-9167-4e7d-87cf-b64530896bc2,extendto.immo,available,14.99,,high,low,9,name.com,,,
 9c32fefc-1851-47b5-a173-f6f344a813bc,dying.immo,available,14.99,45.99,high,low,5,name.com,,,
-1aed899c-8897-483c-9f05-fb0bbe9cddaa,recovering.immo,available,14.99,45.99,high,low,10,name.com,,,
+1aed899c-8897-483c-9f05-fb0bbe9cddaa,recovering.immo,available,34.99,34.99,medium,low,10,namesilo,,,23/09/2026 22:44
 cad31dd7-3cba-4972-83ae-e54f444768a6,dry.immo,available,14.99,45.99,high,low,3,name.com,,,
 baf3a47f-08d7-49d6-be9f-40b4e8faea32,anall.immo,available,14.99,,medium,low,6,name.com,,,
 cecd1884-ff0d-4d02-9253-20ee20f92937,confuse.immo,available,14.99,,medium,low,7,name.com,,,
@@ -740,7 +739,7 @@ b6c99f88-6892-4638-854f-1429723522dc,seats.immo,available,14.99,,high,low,5,name
 0c729f73-0057-4147-8cfe-56e3e1da667b,tin.immo,available,14.99,,medium,low,3,name.com,,,
 83d9b3b6-7295-4930-b7bc-3a56f4b4a48c,youknow.immo,available,14.99,,high,low,8,name.com,,,
 8a583e61-b5a7-47ba-8a96-5f87ec893253,reebok.immo,available,14.99,,high,low,6,name.com,,,
-7c59ede0-274a-4747-8caf-6ea5b7274e23,proof.immo,available,36.98,43.98,medium,low,5,namecheap,,,19/09/2026 13:10
+7c59ede0-274a-4747-8caf-6ea5b7274e23,proof.immo,available,34.99,34.99,medium,low,5,namesilo,,,23/09/2026 16:02
 3b050f88-4301-442c-b3bf-9917534d0579,pronounced.immo,available,14.99,,medium,low,10,name.com,,,
 62d8b4f3-15a5-48fa-a88e-f3baee1cd439,taxswap.immo,available,14.99,,medium,low,8,name.com,,,
 69b8246c-b38b-4ad8-9f55-814591bcce73,simplify.immo,available,14.99,,high,low,8,name.com,,,
@@ -786,7 +785,7 @@ bb9e7f19-1e05-454b-8dff-d8029fb06005,thinking.immo,available,14.99,,high,low,8,n
 1993a28d-8827-419f-8382-6452cf99448b,nothing.immo,available,14.99,,high,low,7,name.com,,,
 eb2e41ed-5e70-4dad-ab1d-5c391333dfac,hindend.immo,available,14.99,45.99,low,low,8,name.com,,,09/08/2026 11:03
 7635c1d4-553d-45a7-82c9-b9093a754075,mawkish.immo,available,14.99,45.99,low,low,7,name.com,,,09/08/2026 00:48
-0d4d3772-fccd-485b-bafc-ecff5f99a508,composed.immo,available,14.99,45.99,high,low,8,name.com,,,
+0d4d3772-fccd-485b-bafc-ecff5f99a508,composed.immo,available,36.98,43.98,medium,low,8,namecheap,,,23/09/2026 17:50
 afb074f2-6f2c-43a1-a646-147accda6f90,coruscant.immo,available,14.99,45.99,low,low,9,name.com,,,
 9b3f5022-2265-415f-8825-5a3a799ebc5a,thrashabout.immo,available,14.99,,low,low,12,name.com,,,
 0373541b-d215-42e9-84e9-d8ac114c7f48,hanukkah.immo,available,14.99,,high,low,8,name.com,,,
@@ -822,7 +821,7 @@ a98c1438-db21-4cd9-b21a-59ea1f091f37,asserted.immo,available,14.99,45.99,low,low
 a25dff15-1151-4a71-b78f-f67b93acb449,moderator.immo,available,14.99,,high,low,9,name.com,,,
 bcbe71c5-08c4-483a-8b8e-01ca169a33e3,attachment.immo,available,14.99,,high,low,10,name.com,,,
 059ebaee-eea8-469d-a9e4-d72ce28502b1,southcarolina.immo,premium,118.8,118.8,low,low,14,namesilo,,,
-ed20440c-46a1-45d7-a42e-01c0f7357c4a,compelling.immo,available,14.99,45.99,high,low,10,name.com,,,
+ed20440c-46a1-45d7-a42e-01c0f7357c4a,compelling.immo,available,34.99,34.99,medium,low,10,namesilo,,,23/09/2026 17:02
 4901c679-8216-4616-b835-393e9ea46f82,outdoor.immo,available,14.99,,high,low,7,name.com,,,
 7d23c66f-205a-4a3e-aec3-8ff700466e82,background.immo,available,14.99,,high,low,10,name.com,,,
 9bff3031-d05c-4c42-ab5c-f3c6cef386bc,principal.immo,available,14.99,,high,low,9,name.com,,,
@@ -839,7 +838,7 @@ cec170fa-0e55-4b83-b77e-01819ae8aca1,fuckinghell.immo,available,14.99,,medium,lo
 9db7caa5-ffbe-41a1-a6d4-39252853b2e8,avascular.immo,available,14.99,45.99,low,low,9,name.com,,,07/08/2026 22:19
 fec5abe0-b6f1-412a-b278-7012ddcf3c26,aery.immo,available,14.99,45.99,low,low,4,name.com,,,
 043b527b-d77d-4251-b0f5-1bfbc5bcc3f5,veer.immo,available,14.99,,high,low,4,name.com,,,
-4298e13c-2a6e-43d9-b241-3ca59857ed21,finale.immo,available,14.99,,high,low,6,name.com,,,
+4298e13c-2a6e-43d9-b241-3ca59857ed21,finale.immo,available,34.99,34.99,medium,low,6,namesilo,,,23/09/2026 14:46
 e47af06f-00fa-4541-a824-acabc8a26db3,beach.immo,available,14.99,,medium,low,5,name.com,,,
 c064c966-3481-4861-b9b6-a28db4b2dcec,nephew.immo,available,14.99,,medium,low,6,name.com,,,
 00f7eb0f-d622-42de-ab6d-31371d4f5b07,shoulders.immo,available,14.99,,low,low,9,name.com,,,
@@ -854,7 +853,6 @@ c8a36aa8-75fa-4963-beac-4c4aec117477,sportsday.immo,available,14.99,,high,low,10
 6ddba5db-8873-4185-b52c-0c22ca3ddbb8,aucourant.immo,available,14.99,45.99,low,low,10,name.com,,,
 65957896-bf3d-4a9b-a690-0d4db7af8b3e,domesticworker.immo,available,14.99,,high,low,15,name.com,,,
 6e799dba-0000-410f-9f91-6e0813ca39a3,evolve.immo,available,14.99,,high,low,6,name.com,,,
-c5accbb6-a224-4804-b4e0-f00b39a769c6,converse.immo,available,,,medium,high,8,,,,
 6ef86492-723b-4ee3-92d1-f0219ff8017b,fell.immo,available,14.99,45.99,low,low,4,name.com,,,08/08/2026 15:49
 25f63725-74b8-42aa-90cf-68d7e62e413f,alright.immo,available,34.99,34.99,medium,low,7,namesilo,,,22/09/2026 01:15
 2ca26876-9970-474e-9e14-620a120544fb,selfconfident.immo,available,14.99,,medium,low,14,name.com,,,
@@ -906,7 +904,7 @@ d161dd1d-57df-4e1e-8f4f-3f9cb73b160d,reception.immo,available,14.99,,high,low,9,
 873e3873-f92c-4cc7-ad39-591771765e6e,anecdotal.immo,available,14.99,45.99,low,low,9,name.com,,,
 a44556b1-67b8-4bb3-9113-55b002db1633,acting.immo,available,34.99,34.99,low,low,6,namesilo,,,21/09/2026 16:22
 8bd5bcfe-b7a5-4bee-8b9b-5c51bdd57b2e,cry.immo,available,14.99,,high,low,3,name.com,,,
-13a569cc-aac5-446e-a605-06b1c4ab303f,fan.immo,available,14.99,,high,low,3,name.com,,,
+13a569cc-aac5-446e-a605-06b1c4ab303f,fan.immo,available,36.98,43.98,medium,low,3,namecheap,,,23/09/2026 10:11
 5b6c0043-a44a-4761-8960-0d5c66ae3a3e,digitalwatch.immo,available,14.99,,high,low,13,name.com,,,
 a736e171-3ab5-43c6-bab2-e81f3e88a687,automotive.immo,available,34.99,34.99,medium,low,10,namesilo,,,22/09/2026 14:07
 f98a32f7-737d-45dd-867c-9f0f7a32af79,builder.immo,resell,,,high,low,7,"Sav.com, LLC",19/12/2025 17:47,19/12/2026 17:47,
@@ -927,8 +925,8 @@ aeaafb11-36f3-48ef-89df-23a3ed8a139b,howaboutno.immo,available,14.99,,medium,low
 e7098777-4af7-475f-a05d-92bbf6210dba,turtlenecksweater.immo,available,14.99,,high,low,18,name.com,,,
 b90ef328-56cd-4b03-a6d1-ff3ad3346a3e,halfass.immo,available,14.99,,medium,low,8,name.com,,,
 3dcf56e3-af3f-4d87-90aa-dde39cf4a4a6,astimesgo.immo,available,14.99,,medium,low,11,name.com,,,
-fc08c507-00fc-428f-ac4f-1ac58edc1aa6,givebirth.immo,available,14.99,,high,low,10,name.com,,,
-cc3bd680-1f26-4054-8edc-9413265cd929,attack.immo,available,34.99,34.99,medium,low,6,namesilo,,,19/09/2026 14:18
+fc08c507-00fc-428f-ac4f-1ac58edc1aa6,givebirth.immo,available,36.98,43.98,low,low,10,namecheap,,,23/09/2026 20:56
+cc3bd680-1f26-4054-8edc-9413265cd929,attack.immo,available,34.99,34.99,medium,low,6,namesilo,,,23/09/2026 17:14
 80e39435-8ad0-4c19-b241-95f75b53e927,dingy.immo,available,14.99,45.99,low,low,5,name.com,,,09/08/2026 09:20
 20f2d8cb-4c82-4654-bfd5-de701e3b4da7,star.immo,premium,128.7,128.7,medium,low,4,namecheap,,,21/09/2026 17:48
 78735fa6-1f1d-4745-87a9-77b3a8bc83ab,hum.immo,available,14.99,,high,low,3,name.com,,,
@@ -952,7 +950,7 @@ eb4b75ec-1d2d-447a-88ae-122ea5bf108b,punchabove.immo,available,14.99,,low,low,11
 3aa67d39-2258-4336-9448-4f8560e03321,seriously.immo,available,14.99,,medium,low,9,name.com,,,
 b2a45d00-a103-46b5-a7ec-e8e6baf2ee41,givesomethingago.immo,available,14.99,,high,low,19,name.com,,,
 3fbf31a8-df46-400a-a603-d808c157db56,berrylike.immo,available,14.99,45.99,low,low,9,name.com,,,08/08/2026 04:08
-b6b15e0e-d227-4f84-adfe-eb36ca037c3b,british.immo,premium,78.54,78.54,high,low,7,namesilo,,,
+b6b15e0e-d227-4f84-adfe-eb36ca037c3b,british.immo,premium,78.54,78.54,medium,low,7,namesilo,,,23/09/2026 09:38
 cf449ad3-449a-4b19-8dfa-51b5960c83f6,crackers.immo,available,14.99,45.99,low,low,8,name.com,,,06/08/2026 20:45
 5e93574a-b3cd-44b1-992a-00ccc54c329a,agone.immo,available,14.99,45.99,low,low,5,name.com,,,
 aec546cc-92d1-4252-bf8f-6fa20d7449a2,least.immo,available,14.99,,high,low,5,name.com,,,
@@ -977,7 +975,7 @@ bd28cbf3-a750-4798-8ee3-3674b22833b9,stuck.immo,available,14.99,,medium,low,5,na
 bcc7d25e-1639-4173-a2d5-688a1578908b,senseofsmell.immo,available,14.99,,low,low,14,name.com,,,
 48ee3fe9-c32a-49d7-a523-a46e795a65b7,virtuoso.immo,available,34.99,34.99,medium,low,8,namesilo,,,21/09/2026 17:38
 6573c7df-6c02-44b8-b782-3a5c8a07ef7c,acetic.immo,available,14.99,45.99,low,low,6,name.com,,,
-7e522ed2-0a61-4c83-9c9f-f7ddbcbd6659,conclusive.immo,premium,14.99,,medium,low,10,name.com,,,
+7e522ed2-0a61-4c83-9c9f-f7ddbcbd6659,conclusive.immo,available,14.99,45.99,medium,low,10,name.com,,,23/09/2026 19:11
 f45b273d-900b-4712-a353-7f0c9cc7f019,diminished.immo,available,14.99,45.99,low,low,10,name.com,,,07/08/2026 15:00
 c8cf2d18-fdc5-4384-a563-031e2812954d,dozen.immo,available,36.98,43.98,medium,low,5,namecheap,,,21/09/2026 11:29
 7c7ed108-4f15-4a94-8fb7-f905f07e3ecb,dieselengine.immo,available,14.99,,high,low,13,name.com,,,
@@ -992,10 +990,12 @@ c0368ea1-7ec7-46b2-aa03-bf3d6a726215,concoct.immo,available,14.99,,high,low,7,na
 07cefea6-f3f8-4ccd-91c0-abe4bff49a02,saturday.immo,available,14.99,,high,low,8,name.com,,,
 ec918d4c-c180-4d58-97d6-2af04b444d4d,spot.immo,premium,78.54,78.54,high,medium,4,namesilo,,,
 fc891904-2e36-4c9c-b5df-aa2208ed7018,derriere.immo,available,14.99,45.99,low,low,8,name.com,,,09/08/2026 11:55
-811fb0ce-1cf4-4eff-8132-eb578e402636,laughable.immo,available,14.99,,medium,low,9,name.com,,,
+811fb0ce-1cf4-4eff-8132-eb578e402636,laughable.immo,available,34.99,34.99,low,low,9,namesilo,,,23/09/2026 15:25
 57039f5a-f580-4960-aa27-7c56f063b390,makegood.immo,available,14.99,,high,low,9,name.com,,,
 839cd594-ff85-45fd-ad8f-5b99af66176d,proceed.immo,available,14.99,,high,low,7,name.com,,,
 7029cd00-b9a3-4db0-acbb-9277184ea9af,wideopen.immo,available,14.99,,medium,low,9,name.com,,,
 727f4343-4d89-4dda-9c60-6c6be319d880,appressed.immo,available,14.99,45.99,low,low,9,name.com,,,
 2642b819-2c46-4b7f-8e56-294227400230,inquestion.immo,available,14.99,,medium,low,11,name.com,,,
 dfb36fb7-d4d1-45b5-a352-4f2d34120900,mash.immo,available,14.99,,medium,low,4,name.com,,,
+d3cd6e33-58f5-4659-8fc0-7baea095ff03,hanger.immo,available,14.99,,medium,low,6,name.com,,,
+cee15e88-712e-4c19-82b5-3f22c76b6067,marco.immo,available,14.99,,high,low,5,name.com,,,
