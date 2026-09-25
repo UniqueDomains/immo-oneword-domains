@@ -1,10 +1,10 @@
-# Available .IMMO One-Word Domains (31,198)
+# Available .IMMO One-Word Domains (32,168)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C198%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C168%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .immo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,198 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,168 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,198 domains · **Median ask:** $26.15 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 32,168 domains · **Median ask:** $26.61 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/immo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| age.immo     | available | $34.99    | $34.99        | medium         | low    | 3      | namesilo          |
-| buy.immo     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc       |
-| kid.immo     | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
-| ale.immo     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
-| game.immo    | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 40 |
-| mon.immo     | premium   | $250      | —             | high           | low    | 3      | name.com          |
-| bee.immo     | available | $14.99    | —             | high           | medium | 3      | name.com          |
-| viewer.immo  | resell    | —         | —             | medium         | low    | 6      | IONOS SE          |
-| nyc.immo     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
-| boo.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| builder.immo | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC      |
-| pad.immo     | premium   | $242      | $242          | medium         | low    | 3      | namesilo          |
-| bro.immo     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
-| harmony.immo | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 29 |
-| fund.immo    | premium   | $85.80    | $85.80        | medium         | low    | 4      | namecheap         |
-| con.immo     | available | $14.99    | —             | medium         | low    | 3      | name.com          |
-| spot.immo    | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo          |
-| cry.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| star.immo    | premium   | $128.70   | $128.70       | medium         | low    | 4      | namecheap         |
-| don.immo     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| act.immo       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| car.immo       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC      |
+| ain.immo       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| ale.immo       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| slot.immo      | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC      |
+| kid.immo       | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| atp.immo       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| block.immo     | resell    | —         | —             | high           | low    | 5      | Sav.com, LLC      |
+| mon.immo       | premium   | $250      | —             | high           | low    | 3      | name.com          |
+| bee.immo       | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| viewer.immo    | resell    | —         | —             | high           | low    | 6      | IONOS SE          |
+| nyc.immo       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo          |
+| boo.immo       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| builder.immo   | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC      |
+| pad.immo       | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| bro.immo       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| harmony.immo   | resell    | —         | —             | high           | medium | 7      | Sav.com, LLC - 29 |
+| asia.immo      | premium   | $500      | —             | high           | low    | 4      | name.com          |
+| bug.immo       | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| insurance.immo | resell    | —         | —             | high           | medium | 9      | Sav.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,198 live domains                        |
+| 1,000-row public sample | 32,168 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IMMO One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
